@@ -1,0 +1,13 @@
+.recList,
+.recTitle{
+    text-align: center;
+}
+
+.recList{
+    white-space:pre;
+}
+
+img{
+    margin-left: 38%;
+}
+

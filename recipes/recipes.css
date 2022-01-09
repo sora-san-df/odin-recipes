@@ -1,0 +1,54 @@
+html{
+    background-color: rgba(2, 84, 99, 0.712);
+}
+
+img{
+    padding-left: 29%;
+   
+}
+.watar{
+   height: 500px;
+   width: 500px;
+   padding-left: 32%;
+   
+}
+
+.Description,
+.Description_Child,
+.ingredients,
+ul,
+li,
+.steps {
+
+    text-align: center;
+    font-weight: 700;
+    font-family:cursive;
+    font-size: 28px;
+    
+   
+
+
+ 
+}
+
+.Description{
+
+    font-size: 40px;
+    color:rgb(3, 54, 34);
+}
+
+
+
+.ingredients{
+    color:rgb(3, 54, 34);
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+.steps{
+    color:rgb(3, 54, 34);
+    font-size: 40px;
+}
